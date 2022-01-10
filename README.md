@@ -1,5 +1,5 @@
 # Youtube_downloader
-A script to download a video from Youtube in different formats
+A script to download youtube video in different formats and resolutions
 
 ## Usage
 To use this script, you will need to have [Pytube][pytube] installed. <br />
